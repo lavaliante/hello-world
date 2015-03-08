@@ -1,2 +1,4 @@
 # hello-world
-My first repository on GitHub
+My first repository on GitHub 
+
+Testando e configurando o GitHub no meu micro!
